@@ -1,0 +1,47 @@
+﻿http://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/1460/original/ray_part_1.swf?1521284385
+
+
+
+
+
+<object width="700" height="500">
+
+<param name="movie" value="http://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/1460/original/ray_part_1.swf?1521284385">
+
+<embed src="http://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/1460/original/ray_part_1.swf?1521284385" width="700" height="500">
+
+</embed>
+
+</object>﻿
+
+
+
+
+
+<object width="700" height="500">
+
+<param name="movie" value="http://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/27/original/ray_part_2.swf?1521279193">
+
+<embed src="http://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/27/original/ray_part_2.swf?1521279193" width="700" height="500">
+
+</embed>
+
+</object>﻿
+
+
+
+
+
+
+
+<object width="700" height="500">
+
+<param name="movie" value="http://img-hws.y8.com/cloud/y8-flash-animation/contents/item_versions/flash_animations/435/original/ray_part_3_introduction.swf?1522333539">
+
+<embed src="http://img-hws.y8.com/cloud/y8-flash-animation/contents/item_versions/flash_animations/435/original/ray_part_3_introduction.swf?1522333539" width="700" height="500">
+
+</embed>
+
+</object>﻿
+
+

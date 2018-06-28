@@ -1,0 +1,97 @@
+.standard{ 
+		color:green;
+		font-size:18px;
+		font-family:initial;
+	}
+.header2{
+	background-color:DodgerBlue;
+}
+.header1{
+	color:#FFFFFF;
+	background-color:#000000;
+	font-size:22px; 
+	font-family:initial;
+}
+
+
+.header3{
+	background-color:green;
+}
+
+	.header3{
+	color:red;
+	background-color:gren;
+	font-size:32px; 
+	font-family:initial;
+}
+
+
+
+.header4{
+	color:red;
+	background-color:green;
+	font-size:45px; 
+	font-family:initial;
+}
+	
+	
+	
+	.header5{
+		color:red;
+		background-color:green;
+		font-size:45px; 
+		font-family:initial;
+	}
+	
+ul { 
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}	
+	
+li { 
+    display: block;
+    list-style-type:lower-alpha;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+	font-family: initial;
+	font-size:14px;
+	color:black;
+}	
+li :hover{ 
+	font-weight:bold;
+	font-size:14px;
+	color:yellow;
+	background-color:red;
+}	
+
+.left {
+    border-right: 1px dashed #C96704;
+    height: 500px;
+	width:25%;
+	float:left;
+    border-bottom: 1px dashed #C96704;
+	text-align:left;
+}
+.right {
+    height: 500px;
+	width:70%;
+	float:left;
+	padding-left:20px;
+    border-bottom: 1px dashed #C96704;
+}
+.body{
+	background-color:#EFF0E0;
+	color:#6D431D;
+	font-family:tahoma;
+	
+}
+
+
